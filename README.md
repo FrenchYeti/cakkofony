@@ -12,11 +12,10 @@ Obfuscated code:
 ```
 ## Quick Use
 
-With NodeJS :
-```
-```
+I greatly encourage to encode your raw source code string into base64 in order to avoid special chars conflicts.
 
 With Javascript :
 ```
+var encodedSrcString = CakkofonyJS(rawSrcString);
 ```
 

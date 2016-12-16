@@ -1,5 +1,5 @@
 # CakkofonyJS
-A simple obfuscator for JavaScript
+A simple not-alphanumeric encoder for funny JavaScript
 
 ## Example
 Clear code :

@@ -2,6 +2,9 @@
 A simple not-alphanumeric encoder for funny JavaScript
 
 ## Example
+
+The demo below can be perform here : https://jsfiddle.net/FrenchYeti/9s05ryrk/
+
 Clear code :
 ``` 
 alert("Hello world!");
@@ -18,4 +21,6 @@ With Javascript :
 ```
 var encodedSrcString = CakkofonyJS(rawSrcString);
 ```
+
+Try it with your own code here : https://jsfiddle.net/FrenchYeti/b1b6996L/
 

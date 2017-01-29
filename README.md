@@ -24,3 +24,7 @@ var encodedSrcString = CakkofonyJS(rawSrcString);
 
 Try it with your own code here : https://jsfiddle.net/FrenchYeti/b1b6996L/
 
+## Noise parameter
+
+For NodeJS script, there is an additional parameter allowing you to introduce noise.
+
